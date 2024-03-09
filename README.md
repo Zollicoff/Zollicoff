@@ -1,4 +1,4 @@
-### Hi there, 👋
+## Hi there! 👋
 
 My name is Zach and I'm a Computer Engineering Student at California State University San Bernardino.
 

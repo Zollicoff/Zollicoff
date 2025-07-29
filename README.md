@@ -9,5 +9,3 @@ CS student interested in AI, ML, Web, and Software.
 
 ---
 *Building cool stuff, one commit at a time* ![](https://komarev.com/ghpvc/?username=zollicoff&color=00D9FF&style=flat-square)
-
-![](https://github-profile-trophy.vercel.app/?username=zollicoff&theme=onedark&no-frame=true&column=7)

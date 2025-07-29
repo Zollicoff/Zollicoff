@@ -9,7 +9,3 @@ CS student interested in AI, ML, Web, and Software.
 
 ---
 *Building cool stuff, one commit at a time* ![](https://komarev.com/ghpvc/?username=zollicoff&color=00D9FF&style=flat-square)
-
-Random Quote:
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

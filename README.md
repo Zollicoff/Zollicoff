@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zollicoff+%F0%9F%91%8B;AI+%2B+ML+%2B+Web+%2B+Software;Building+cool+stuff%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Zollicoff+%F0%9F%91%8B;AI+%2B+ML+%2B+Web+%2B+Software;Building+cool+stuff%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <br>
 
@@ -53,13 +53,6 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<a href="https://github.com/zollicoff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zollicoff&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zollicoff&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</a>
-
-<br><br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zollicoff&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF)
 

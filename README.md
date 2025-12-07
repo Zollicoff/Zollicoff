@@ -7,7 +7,7 @@
 
 **CS Undergrad @ CSUSB** · Neural networks enthusiast · SvelteKit enjoyer
 
-*Currently surviving database class and numerical computation* 😅
+*Currently waiting to graduate and start my masters program in Spring!* 😅
 
 <br>
 
